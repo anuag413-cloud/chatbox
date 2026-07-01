@@ -1,0 +1,7 @@
+pip install streamlit
+pip install Groq
+pip install duckduckgo-search
+pip install requests
+
+pip install pandas
+streamlit run app.py
